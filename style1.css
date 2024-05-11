@@ -459,6 +459,7 @@ flex-direction: column;
   .home-img img {
     width: 60vw;
     margin-top: 4rem;
+     border-radius: 50%;
   }
 
   .about {
@@ -490,6 +491,7 @@ flex-direction: column;
   .home-img img {
   width: 60vw;
   margin-top: 8rem;
+  border-radius: 50%;
   }
 
   .about-img img {
