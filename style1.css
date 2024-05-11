@@ -95,6 +95,7 @@ span {
 .home-img img { 
   width: 25vw;
   animation: floatImag 4s ease-in-out infinite;
+   border-radius: 50%;
 }
 
 @keyframes floatImage  {
