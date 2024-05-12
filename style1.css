@@ -500,6 +500,9 @@ flex-direction: column;
     width: 50vw;
     margin-top: 4rem;
   }
+   .bnn {
+    margin-top: 1rem;
+  }
 }
 @media (max-width:617px) {
   html {
@@ -507,4 +510,8 @@ flex-direction: column;
   }
   .contact form .input-box input {
     width: 100%
-  }}
+  }
+.bnn {
+    margin-top: 1rem;
+  }
+}
