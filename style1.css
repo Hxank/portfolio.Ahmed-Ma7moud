@@ -465,6 +465,7 @@ flex-direction: column;
 
   .about {
     flex-direction: column;
+     gap: 3rem;
   }
   .about-img img {
     width: 50vw;
